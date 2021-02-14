@@ -42,8 +42,8 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="serkanurgancı's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mXBozkurt&show_icons=true&hide_border=true" />
-
-![banner](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+<br />
+![banner](https://media.giphy.com/media/GnTHlXYp08VDJllWj7/giphy.gif)
 
 
 [twitter]: https://twitter.com/mXBozkurt4
