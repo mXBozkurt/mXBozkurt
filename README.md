@@ -43,7 +43,7 @@
 
   <img align="left" alt="serkanurgancı's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mXBozkurt&show_icons=true&hide_border=true" />
 <br />
-![banner](https://media.giphy.com/media/GnTHlXYp08VDJllWj7/giphy.gif)
+![banner](https://gph.is/g/4A19dnQ)
 
 
 [twitter]: https://twitter.com/mXBozkurt4
