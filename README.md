@@ -44,8 +44,10 @@
 
   <summary>:zap: GitHub Stats</summary>
 
+  <div>
   <img align="left" alt="Enes's GitHub Stats" height="160px;" src="https://github-readme-stats.vercel.app/api?username=EnesBirol&count_private=true&show_icons=true&theme=EnesBirol" />
   <img align="right" alt="Enes's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnesBirol&hide=python&layout=compact&show_icons=true&theme=EnesBirol" />
+  </div>
   
 [twitter]: https://twitter.com/mXBozkurt4
 [instagram]: https://instagram.com/mx.birol
