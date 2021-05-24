@@ -42,7 +42,7 @@
 
 
 
-  <summary>:zap: GitHub Stats</summary><br/>
+  <summary>:zap: GitHub Stats</summary>
 
   <div>
     <img align="left" alt="Enes's GitHub Stats" height="160px;" src="https://github-readme-stats.vercel.app/api?  username=EnesBirol&count_private=true&show_icons=true&theme=EnesBirol" />
