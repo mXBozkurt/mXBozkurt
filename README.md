@@ -44,7 +44,7 @@
 
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="serkanurgancı's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mXBozkurt&show_icons=true&hide_border=true" />
+  <img align="left" alt="serkanurgancı's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EnesBirol&count_private=true&show_icons=true&theme=EnesBirol" />
   
 [twitter]: https://twitter.com/mXBozkurt4
 [instagram]: https://instagram.com/mx.birol
