@@ -13,6 +13,7 @@
 
 
 ### Connect with me:
+[<img align="left" alt="codeSTACKr | Linkedln" width="22px" src="https://pic.onlinewebfonts.com/svg/img_24845.png" />][Linkedln]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | İnstagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
@@ -52,3 +53,4 @@
 [twitter]: https://twitter.com/mXBozkurt4
 [instagram]: https://instagram.com/mx.birol
 [telegram]: https://t.me/mxbirol00
+[Linkedln]:https://tr.linkedin.com/in/enes-birol-96a972165?trk=people-guest_people_search-card
